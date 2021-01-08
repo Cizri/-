@@ -1,0 +1,28 @@
+
+
+[
+	
+	{
+		"author": "David Billings",
+        "url": "https://raw.githubusercontent.com/Cizri/wallper-json/master/wallper/01.jpg",
+        "name": "海上清晨的日出"
+	},
+
+	{
+		"author": "Mike Marrah",
+        "url": "https://raw.githubusercontent.com/Cizri/wallper-json/master/wallper/02.jpg",
+        "name": "落日下的向日葵"
+	},
+
+	{
+		"author":"Domenico Gentile",
+		"ult":"https://raw.githubusercontent.com/Cizri/wallper-json/master/wallper/03.jpg",
+		"name":"阳光离去后的向日葵"
+	},
+
+	{
+		"author":"eberhard grossgasteiger",
+		"ult":"https://raw.githubusercontent.com/Cizri/wallper-json/master/wallper/04.jpg",
+		"name":"秋天森林中的公路"
+	}
+]
