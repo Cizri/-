@@ -4,25 +4,60 @@
 	
 	{
 		"author": "David Billings",
-        "url": "https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/01.jpg",
-        "name": "海上清晨的日出"
+        "url": "https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/01.jpg",
+        "name": "海上清晨的日出",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/01.jpg"
 	},
 
 	{
 		"author": "Mike Marrah",
-        "url": "https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/02.jpg",
-        "name": "落日下的向日葵"
+        "url": "https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaperr/02.jpg",
+        "name": "落日下的向日葵",
+        "thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/02.jpg"
 	},
 
 	{
 		"author":"Domenico Gentile",
-		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/03.jpg",
-		"name":"初晨的向日葵"
+		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/03.jpg",
+		"name":"初晨的向日葵",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/03.jpg"
 	},
 
 	{
 		"author":"Eberhard Grossgasteiger",
-		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/04.jpg",
-		"name":"秋天森林中的公路"
+		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/04.jpg",
+		"name":"秋天森林中的公路",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/04.jpg"
+	},
+
+
+	{
+		"author":"Andre Abreu",
+		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/05.jpg",
+		"name":"俯瞰海滩",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/05.jpg"
+	},
+
+
+	{
+		"author":"Nikolay Vorobyev",
+		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/06.jpg",
+		"name":"海边崖角",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/06.jpg"
+	},
+
+	{
+		"author":"Mado El Khouly",
+		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/07.jpg",
+		"name":"梦幻般的日落",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/07.jpg"
+	},
+
+	{
+		"author":"Bailey Anselme",
+		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallpaper/08.jpg",
+		"name":"藏身迷雾的大桥",
+		"thumbnail": "https://raw.githubusercontent.com/Cizri/wallpaper/master/small/08.jpg"
 	}
+
 ]
