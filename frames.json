@@ -5,28 +5,24 @@
 	{
 		"author": "David Billings",
         "url": "https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/01.jpg",
-        "thumbnail":"https://raw.githubusercontent.com/Cizri/wallpaper/master/small/01.jpg",
         "name": "海上清晨的日出"
 	},
 
 	{
 		"author": "Mike Marrah",
         "url": "https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/02.jpg",
-        "thumbnail":"https://raw.githubusercontent.com/Cizri/wallpaper/master/small/02.jpg",
         "name": "落日下的向日葵"
 	},
 
 	{
 		"author":"Domenico Gentile",
 		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/03.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/Cizri/wallpaper/master/small/03.jpg",
 		"name":"初晨的向日葵"
 	},
 
 	{
 		"author":"Eberhard Grossgasteiger",
 		"url":"https://raw.githubusercontent.com/Cizri/wallpaper/master/wallper/04.jpg",
-		"thumbnail":"https://raw.githubusercontent.com/Cizri/wallpaper/master/small/04.jpg",
 		"name":"秋天森林中的公路"
 	}
 ]
